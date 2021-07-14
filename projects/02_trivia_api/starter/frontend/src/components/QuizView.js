@@ -90,7 +90,7 @@ class QuizView extends Component {
       previousQuestions: [],
       showAnswer: false,
       numCorrect: 0,
-      currentQuestion: null,
+      currentQuestion: {},
       guess: '',
       forceEnd: false
     })
